@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/Carlovo/straight_to_the_money",
+  "commit": "30331e37e467f041e7fc25c732de0872284e1c38",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Straight to the Kitchen Sink",
+      "project_slug": "straight_to_the_kitchen_sink",
+      "project_description": "WOW!! Lot of water! Such plates! Very cutlery!",
+      "author_name": "Dishes Doge",
+      "author_email": "doge@sink.kitchen",
+      "python_version": "3.12",
+      "_template": "https://github.com/Carlovo/straight_to_the_money"
+    }
+  },
+  "directory": null
+}

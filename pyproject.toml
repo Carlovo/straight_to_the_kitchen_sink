@@ -1,0 +1,14 @@
+[project]
+name = "straight_to_the_kitchen_sink"
+version = "0.1.0"
+description = "WOW!! Lot of water! Such plates! Very cutlery!"
+readme = "README.md"
+authors = [
+    {name = "Dishes Doge", email = "doge@sink.kitchen"},
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
