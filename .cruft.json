@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Carlovo/straight_to_the_money",
-  "commit": "30331e37e467f041e7fc25c732de0872284e1c38",
+  "commit": "bf013efda7bfccac548594ed117258005faecaf2",
   "checkout": null,
   "context": {
     "cookiecutter": {
