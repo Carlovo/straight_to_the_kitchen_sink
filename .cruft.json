@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Carlovo/straight_to_the_money",
-  "commit": "9692a85fd9dabb13000d151b06b21f5e9cc51fe1",
+  "commit": "9eff24dd7c7c7ea2ee9917c37111d59ff63fc78b",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -11,7 +11,7 @@
       "author_email": "doge@sink.kitchen",
       "python_version": "3.12",
       "_template": "https://github.com/Carlovo/straight_to_the_money",
-      "_commit": "9692a85fd9dabb13000d151b06b21f5e9cc51fe1"
+      "_commit": "9eff24dd7c7c7ea2ee9917c37111d59ff63fc78b"
     }
   },
   "directory": null
