@@ -1,6 +1,6 @@
 [project]
 name = "straight_to_the_kitchen_sink"
-version = "1.1.0"
+version = "1.2.0"
 description = "WOW!! Lot of water! Such plates! Very cutlery!"
 readme = "README.md"
 authors = [
@@ -43,4 +43,9 @@ ignore = [
   "E114",
   # over-indented
   "E117",
+]
+
+[tool.mypy]
+files = [
+    "src"
 ]
