@@ -1,6 +1,6 @@
 [project]
 name = "straight_to_the_kitchen_sink"
-version = "1.2.0"
+version = "1.2.1"
 description = "WOW!! Lot of water! Such plates! Very cutlery!"
 readme = "README.md"
 authors = [
